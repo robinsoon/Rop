@@ -119,7 +119,7 @@ PB虽然老但是处理业务逻辑的效率还是满意的，易上手且灵活
 
 - CS程序开发：PB
 - Web应用开发：Go
-- 软件设计：Xmind、Axure、Markdown、Sublime
+- 软件设计：Xmind/Axure/Markdown/Sublime
 - 数据库相关：Oracle/MySQL/PostgreSQL/SQLite
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 自动化控制：OPC组态控制/KEPServer
